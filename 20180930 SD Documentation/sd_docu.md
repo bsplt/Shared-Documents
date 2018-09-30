@@ -1,12 +1,12 @@
 # Suspended Desire Machine Documentation
 
 ### Information    
-* Title: Suspended Desire Machine
-* Category: Semester project
-* Student: AL    
-* Course Title: Sonic Theories, Sonic Art Practices: Unlimited
-* Lecturer: PK
-* Year: ST 2017
+* Title: _Suspended Desire Machine_
+* Category: _Semester project_
+* Student: _AL_
+* Course Title: _Sonic Theories, Sonic Art Practices: Unlimited_
+* Lecturer: _PK_
+* Year: _ST 2017_
 
 
 ### Table of contents
@@ -41,7 +41,14 @@ I had an idea of a membrane made from latex which I wanted to investigate with t
 
 So I went into fabricating latex sheets, because they are quite expensive, which was quite a smelly experience, and I started thinking about robots. I came up with a structure that uses two motors on a base axis and provides two degrees of freedom on a polar coordinate system. The kinematics are based on a parallelogram and enabled me to come up with a simple design that I could easily prototype with PMMA, a couple of screws and laser cutting. I never really worked on robotics before but this architecture was quite manageable for me. So I started developing a prototype software for the inverse kinematics that I needed to animate the robotic movement. Instead of telling each motor how to move the software should be able to receive a point in two-dimensional space and move the motors in a way so that the arm moves to that position.
 
-The next step would have been to write an animation software that lets the effector (tip of the robot arm) follow predefined splines. I programmed something similar later on, but not for this robot.
+The next step would have been to write an animation software that lets the effector (tip of the robot arm) follow predefined splines. I programmed something similar later on, but not for this robot. Instead I invested some time in something like a case film for the existing robot prototype and then dismissed the idea completly.
+
+### Video of work in progress, please click on the image
+
+![[Robot WIP documentation](https://www.youtube.com/watch?v=E3HFKed5_sM)](https://img.youtube.com/vi/E3HFKed5_sM/maxresdefault.jpg)
+
+### A new idea
+
 
 ## Technical
 
