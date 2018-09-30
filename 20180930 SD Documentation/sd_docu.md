@@ -69,8 +69,18 @@ For building the robot I actually made quite some effort to get the installation
 
 ### The robot
 
+The structure of the robot arm I had before was to limiting for my approach because one axis of movement would be missing and the effector wouldn't stay perpendicular to the plane the robot should affect. So I researched robots and found a solution from that is used in manufacturing called delta robot. Delta robots are known for their precise and quick movement. So I started to right an simulation to get the inverse kinematics straight and then went into designing a solution that would be producible again with PMMA, a laser cutter and a three stepper motors. This took quite a while and some approaches but I managed to build a really precise, silent and strong robot that would sit perfectly inside the casing. I had difficulties on generating movements procedurally so I decided to build an animation tool that can save the motor states into files so that microcontroller with the motor drivers could be fed with the animation data through a serial connection from a single board computer which would also sit inside the box. With the help of the tool I created a lot of animations that would be triggered in random order if the robot is turned on with the help of the switch. When the user turned off the installation the robot would move into a standby position which also calibrates the positions of the motors with through micro switches. Of course the single most important thing about the robot was the interaction with the membrane through its effector. So I 3D-printed a tip with quite a vulgar shape and mounted it on a special plate I designed.
+
+! Laser cut and simulation and animation tool
+
+### The seat
+
+As the whole was to build a furniture-like installation I mounted the installation with thick steel wire on the ceiling. To situate the user I brought a very nice armchair made of leather. This combination created an eerie atmosphere which should remind visitors of living rooms. Also it was quite comfortable.
+
 ## Conclusion
 
+Interpassivity
+SDM
 Technology very well hidden
 
 ## Collection of media
