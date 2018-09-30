@@ -45,7 +45,7 @@ The next step would have been to write an animation software that lets the effec
 
 ### Video of work in progress, please click on the image
 
-[![Robot WIP documentation](https://img.youtube.com/vi/E3HFKed5_sM/maxresdefault.jpg)](https://www.youtube.com/watch?v=E3HFKed5_sM)
+[![Robot WIP documentation](images/thumbnail.png)](https://www.youtube.com/watch?v=E3HFKed5_sM)
 
 ### A new idea
 
